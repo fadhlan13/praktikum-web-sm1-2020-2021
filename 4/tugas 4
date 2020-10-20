@@ -66,14 +66,12 @@
     
     <!-- Konten utama dashboard -->
     <div id="konten">
-      
       <header>
        <center> <h1 class="name">Kasus COVID-19 Asia Tenggara</h1> </center>
       <center><small class="small">Update per 5 jam</small></center>
       </header>
       <section id="konten-rangkuman-kasus">
         <p></p>
-
         <section id="konten-rangkuman-kasus">
             
             <div class="card mx-auto ml-2" style="width: 22%">
@@ -128,19 +126,19 @@
             
     <div id="Tim" class="flex-container">
         <div class="card" style="display: none">
-          asdasd
+          NEGARA ASIA
         </div>
         <div class="card">
-          asd
+          RUMAH SAKIT
         </div>
         <div class="card">
-          asd
+          POS SWAB TEST
         </div>
         <div class="card">
-          asd
+          GEJALA
         </div>
         <div class="card">
-          asd
+          PENCEGEHAN
         </div>
     </div>
         
@@ -153,6 +151,7 @@
             </footer>
       
     </footer> 
+    <div class="animasi"></div>
  
  <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -160,4 +159,5 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
   
+    
 </body></html>
