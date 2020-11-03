@@ -1,0 +1,13 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+#img-jumbo{
+	background-image: ood.jpeg!important;
+}
+
+.statistik .thumbnail{
+	text-align:center;
+	height:130px!important;
+}
